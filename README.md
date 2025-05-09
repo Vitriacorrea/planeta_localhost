@@ -31,6 +31,16 @@
 
 ---
 
+## 📚 Wiki
+
+Explore o conteúdo completo do projeto no [Wiki do planeta_localhost](https://github.com/Vitriacorrea/planeta_localhost/wiki). Algumas páginas essenciais:
+
+- [Sobre o projeto](https://github.com/Vitriacorrea/planeta_localhost/wiki/Sobre)
+- [Fotografia](https://github.com/Vitriacorrea/planeta_localhost/wiki/Fotografia)
+- [Blog Pessoal](https://github.com/Vitriacorrea/planeta_localhost/wiki/Blog)
+
+---
+
 ## 🛠 Tecnologias
 
 - HTML + CSS + JS
@@ -50,3 +60,10 @@ Atualizações constantes conforme cresço como desenvolvedora, artista e pessoa
 
 Pessoal e inspirador, sinta-se à vontade para explorar, aprender e remixar.
 
+---
+
+## 📬 Contato
+
+- Redes sociais: [Instagram](https://www.instagram.com/vitriacorrea)
+
+Agradeço a todos que acompanham o projeto e compartilham dessa jornada comigo! 🚀
