@@ -1,27 +1,8 @@
 # 🌍 planeta_localhost
 
-Um lugar onde meu código encontra o mundo.
+**Um mundo criado em código, testado na minha própria máquina, e agora compartilhado com o universo.**
 
-Esse é o diário digital de uma estudante de ADS apaixonada por natureza, cultura, arte e tecnologia. Um projeto pessoal onde misturo front-end, back-end e a vontade de explorar o planeta como quem faz commit na própria história.
-
----
-
-## ✨ O que tem aqui?
-
-- HTML, CSS e JS simples, feitos do zero
-- Inspirações de viagem, visuais e espirituais
-- Um blog onde cada página é um novo destino
-- Portfolio vivo do que estou aprendendo como dev
-
----
-
-## 💻 Tecnologias usadas
-
-- HTML5
-- CSS3
-- JavaScript
-- Eclipse IDE
-- Git & GitHub
+Esse projeto é o meu diário de bordo digital, onde exploro o planeta com a mesma curiosidade com que exploro o código. Cada linha escrita é uma viagem, cada commit, uma nova história.
 
 ---
 
@@ -31,15 +12,23 @@ Esse é o diário digital de uma estudante de ADS apaixonada por natureza, cultu
 
 ---
 
-## ✈️ Em breve...
+## 💻 Tecnologias usadas
 
-- Responsividade e estilo minimalista
-- Diário de bordo com lugares reais que quero visitar
-- Página interativa com mapas e imagens de viagem
-- Versão dark 🌙
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+---
+
+## 📌 Em breve...
+
+- Página interativa
+- Mapa das minhas viagens
+- Estilo minimalista
 
 ---
 
 ## 📫 Contato
 
-Me encontra aqui: [github.com/Vitriacorrea](https://github.com/Vitriacorrea)
+[github.com/Vitriacorrea](https://github.com/Vitriacorrea)
