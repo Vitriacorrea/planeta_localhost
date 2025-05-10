@@ -10,11 +10,11 @@
 
 `planeta_localhost` é um site pessoal construído do zero por mim, onde compartilho tudo que me move — do mundo tech ao universo feminino:
 
-- 🌎 **Viagens e Cultura**: Explorando o mundo com olhar curioso.
-- 📸 **Fotografia**: Retratos e cenas urbanas que capturam minha visão.
-- 💻 **Desenvolvimento**: Meu espaço para aprender, testar e criar.
-- 💄 **Blog Pessoal**: Perfumes, organização, beleza, tatuagens e outras paixões.
-- 📝 **Templates de Notion**: Ferramentas de organização para download em breve.
+- **Viagens e Cultura**: Explorando o mundo com olhar curioso.
+- **Fotografia**: Retratos e cenas urbanas que capturam minha visão.
+- **Desenvolvimento**: Meu espaço para aprender, testar e criar.
+- **Blog Pessoal**: Perfumes, organização, beleza, tatuagens e outras paixões.
+- **Templates de Notion**: Ferramentas de organização para download em breve.
 
 > “Esse projeto é mais que código, é uma forma de ver o mundo com olhos curiosos e pés inquietos.”
 
