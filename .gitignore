@@ -1,0 +1,11 @@
+# Ignorar pastas do IntelliJ e VSCode
+.idea/
+.metadata/
+.vscode/
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar dependências Node (se usar)
+node_modules/
